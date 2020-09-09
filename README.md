@@ -2,7 +2,7 @@
 
 # Asignatura: Aprendizaje Supervisado
 ## Grupo 13.
-###I ntegrantes
+### Integrantes
 * Bocco, Alessio
 * Maldonado, Florencia
 * Ramello de la Vega, Agustín
